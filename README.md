@@ -69,8 +69,6 @@ Defines the styles for the clock application, including the background image, te
 ![image](https://github.com/user-attachments/assets/6c2d341e-7a41-4c60-92d7-f8a5c185dc1b)
 
 
-> Replace `screenshot.png` with the actual path to your screenshot file after adding it to the repository.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
